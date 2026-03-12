@@ -1,15 +1,12 @@
 # 💫 About Me:
 🔭 I’m currently working on  <br>
-Building frontend web applications with clean, maintainable JavaScript while exploring how web apps work under the hood and how common vulnerabilities appear.<br><br>
+Building frontend web apps with clean JavaScript while exploring how they work under the hood and where common vulnerabilities appear.<br><br>
 
 👯 I’m looking to collaborate on  <br>
 Frontend projects, creative UI ideas, and open source work focused on better and more secure web experiences.<br><br>
 
-🤝 I’m looking for help with  <br>
-Improving scalable frontend architecture and understanding how security fits into modern web applications.<br><br>
-
 🌱 I’m currently learning  <br>
-Modern JavaScript, frontend architecture, browser behavior, and common web security vulnerabilities.<br><br>
+Modern JavaScript, browser behavior, frontend architecture, and web security basics.<br><br>
 
 💬 Ask me about  <br>
 Frontend development, JavaScript, how browsers work, and web application security.<br><br>
