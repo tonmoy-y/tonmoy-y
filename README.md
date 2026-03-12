@@ -1,5 +1,21 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>Building and improving frontend web applications while focusing on writing clean, maintainable JavaScript. At the same time, I like exploring how web applications work under the hood and how common vulnerabilities appear in real-world systems.<br><br>👯 I’m looking to collaborate on  <br>Frontend web projects, creative UI ideas, and open source projects where I can contribute to building better and more secure web experiences.<br><br>🤝 I’m looking for help with  <br>Improving my approach to building scalable frontend applications and learning how modern web apps can be designed with security in mind.<br><br>🌱 I’m currently learning  <br>Deepening my knowledge of modern JavaScript, frontend architecture, browser behavior, and different types of web vulnerabilities to better understand how secure applications are built.<br><br>💬 Ask me about  <br>Frontend development, JavaScript, how browsers work, web application security concepts, and general discussions about building modern web experiences.<br><br>⚡ Fun fact  <br>I enjoy both creating web interfaces and exploring how they behave behind the scenes. Sometimes breaking things is the fastest way to understand how they actually work.
+🔭 I’m currently working on  <br>
+Building frontend web applications with clean, maintainable JavaScript while exploring how web apps work under the hood and how common vulnerabilities appear.<br><br>
+
+👯 I’m looking to collaborate on  <br>
+Frontend projects, creative UI ideas, and open source work focused on better and more secure web experiences.<br><br>
+
+🤝 I’m looking for help with  <br>
+Improving scalable frontend architecture and understanding how security fits into modern web applications.<br><br>
+
+🌱 I’m currently learning  <br>
+Modern JavaScript, frontend architecture, browser behavior, and common web security vulnerabilities.<br><br>
+
+💬 Ask me about  <br>
+Frontend development, JavaScript, how browsers work, and web application security.<br><br>
+
+⚡ Fun fact  <br>
+I enjoy building interfaces and sometimes breaking them to understand how they actually work.
 
 
 ## 🌐 Socials:
