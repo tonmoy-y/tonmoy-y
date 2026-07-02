@@ -14,6 +14,7 @@ Frontend development, JavaScript, how browsers work, and web application securit
 ⚡ Fun fact
 I enjoy building interfaces and sometimes breaking them to understand how they actually work.
 
+[![My GitFut card](https://gitfut.com/tonmoy-y.png)](https://gitfut.com/tonmoy-y)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tonmoyy) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tonmoysouravv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__tonmoyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tonmoyy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tonmoy4451@gmail.com) 
