@@ -32,19 +32,21 @@ I enjoy building interfaces and sometimes breaking them to understand how they a
 <table>
 <tr>
 <td>
-<a href="https://github.com/stats-organization/github-stats-extended">
-  <img src="https://github-stats-extended.vercel.app/api?username=tonmoy-y" />
-</a>
-</td>
 
+<img src="https://github-readme-stats.shion.dev/api?username=tonmoy-y&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+
+</td>
 <td>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tonmoy-y&langs_count=4" />
+
+<img src="https://streak-stats.demolab.com/?user=tonmoy-y&theme=dark&hide_border=false" />
+
 </td>
 </tr>
 </table>
 
-</div>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tonmoy-y&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 
+</div>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tonmoy-y&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
