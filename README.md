@@ -29,9 +29,19 @@ I enjoy building interfaces and sometimes breaking them to understand how they a
 
 <div align="center">
 
-[![Tonmoy's GitHub stats](https://github-stats-extended.vercel.app/api?username=tonmoy-y)](https://github.com/stats-organization/github-stats-extended)
+<table>
+<tr>
+<td>
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img src="https://github-stats-extended.vercel.app/api?username=tonmoy-y" />
+</a>
+</td>
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=tonmoy-y&langs_count=4)
+<td>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tonmoy-y&langs_count=4" />
+</td>
+</tr>
+</table>
 
 </div>
 
