@@ -29,11 +29,8 @@ I enjoy building interfaces and sometimes breaking them to understand how they a
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=tonmoy-y&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+[![Tonmoy's GitHub stats](https://github-stats-extended.vercel.app/api?username=tonmoy-y)](https://github.com/stats-organization/github-stats-extended)
 
-![](https://nirzak-streak-stats.vercel.app/?user=tonmoy-y&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoy-y&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
