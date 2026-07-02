@@ -31,6 +31,7 @@ I enjoy building interfaces and sometimes breaking them to understand how they a
 
 [![Tonmoy's GitHub stats](https://github-stats-extended.vercel.app/api?username=tonmoy-y)](https://github.com/stats-organization/github-stats-extended)
 
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=tonmoy-y&langs_count=4)
 
 </div>
 
